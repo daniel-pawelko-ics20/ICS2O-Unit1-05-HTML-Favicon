@@ -1,0 +1,12 @@
+/* Created by: Daniel Pawelko
+* Created on: April 2021
+* This CSS file defines style for index.html ICS2O-Unit1-05-HTML-Favicon
+*/
+
+/* To style id start with "#", to style class start with "." */
+#my-div {
+  background-color: yellow;
+  color: hsl(147, 50%, 47%);
+  padding: 10px;
+  text-align: left;
+}
